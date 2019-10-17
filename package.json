@@ -1,6 +1,6 @@
 {
   "name": "odata-objection-pg",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "OData to PostgreSQL query compiler",
   "main": "build/lib/index.js",
   "typings": "build/lib/index",
