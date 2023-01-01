@@ -40,7 +40,7 @@
     "@types/config": "^0.0.30",
     "@types/jest": "^24.0.17",
     "@types/pg": "^7.4.14",
-    "config": "^1.21.0",
+    "config": "^3.3.8",
     "jest": "^24.8.0",
     "odata-v4-server": "rc",
     "pg": "^7.12.1",
